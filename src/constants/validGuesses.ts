@@ -12971,4 +12971,13 @@ export const VALID_GUESSES = [
   'zygon',
   'zymes',
   'zymic',
+   'union',
+  'event',
+  'ukfcu',
+  'meets',
+  'social',
+  'stair',
+  'panda',
+  'study',
+  'piano',
 ]
