@@ -30,4 +30,5 @@ export const WORDS = [
   'cater',
   'suite',
   'study',
+  'mates',
 ]
