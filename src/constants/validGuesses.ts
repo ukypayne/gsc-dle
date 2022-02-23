@@ -13002,4 +13002,6 @@ export const VALID_GUESSES = [
   'cater',
   'suite',
   'study',
+  'henry',
+  'planb',
 ]
